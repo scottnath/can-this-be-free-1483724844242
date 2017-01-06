@@ -1,0 +1,8 @@
+applications:
+- path: .
+  memory: 256M
+  instances: 1
+  domain: mybluemix.net
+  name: can-this-be-free
+  host: can-this-be-free
+  disk_quota: 1024M
